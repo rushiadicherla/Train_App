@@ -7,7 +7,7 @@ Usage Instructions:
    $ make
 
 2. Run the Application:
-   $ ./bin/train_ticket   (on Linux/macOS)
+   $ ./train_app          (on Linux/macOS)
    > train_ticket.exe     (on Windows after compilation with MinGW)
 
 3. Features:
@@ -22,7 +22,7 @@ Usage Instructions:
    - include/train_ticket.h : Header file with all structure and function declarations.
    - src/*.c                : Source files implementing functionality.
    - data/*.txt             : Persistent storage for users, trains, and bookings.
-   - bin/train_ticket       : Output executable.
+   - bin/train_app          : Output executable.
 
 5. Notes:
    - Passwords must contain uppercase, lowercase, digit, and special character.
